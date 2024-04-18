@@ -1,0 +1,9 @@
+2024-04-17 22:23:35,641 - INFO - START cancer_treatment_outcomes =============================================
+2024-04-17 22:23:35,642 - INFO - START cancer_treatment_outcomes Start Time = 2024-04-17 22:23:35
+2024-04-17 22:23:35,642 - INFO - cancer_treatment_outcomes Step 0 - Initialize the configuration file parser
+2024-04-17 22:23:35,642 - INFO - Process cancer_treatment_outcomes Step 0 - Initializing and starting Logging Process.
+2024-04-17 22:23:35,766 - INFO - PERFORMANCE cancer_treatment_outcomes The total process duration was:0.13
+2024-04-17 22:23:35,766 - INFO - PERFORMANCE cancer_treatment_outcomes Stop Time = 2024-04-17 22:23:35
+2024-04-17 22:23:35,766 - INFO - PERFORMANCE cancer_treatment_outcomes Short process duration less than 3 Seconds:0.13
+2024-04-17 22:23:35,766 - INFO - PERFORMANCE cancer_treatment_outcomes Performance optimization is not reccomended
+2024-04-17 22:23:35,766 - INFO - END cancer_treatment_outcomes =============================================
