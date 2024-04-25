@@ -1,12 +1,12 @@
 
-# Cancer Treatment Outcomes - Analysis of outcomes related to cancer treatment.
-Analysis of outcomes related to cancer treatment.
+# Cancer Treatment Outcomes - Provides a list of measureable otucomes for Cancer Care including remission, ongoing treatment, active survellance, detah, etc.  
+Provides a list of measureable otucomes for Cancer Care including remission, ongoing treatment, active survellance, detah, etc.  
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Cancer Treatment Outcomes** - an example for your projects
 
-Analysis of outcomes related to cancer treatment.
+Provides a list of measureable otucomes for Cancer Care including remission, ongoing treatment, active survellance, detah, etc.  
 
 ![Image image_filename](sample.png)
 
