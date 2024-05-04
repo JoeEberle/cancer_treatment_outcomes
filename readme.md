@@ -10,7 +10,7 @@ Provides a list of measurable outcomes for Cancer Care including remission, ongo
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
