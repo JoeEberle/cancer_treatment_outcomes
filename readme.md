@@ -1,12 +1,12 @@
 
-# Cancer Treatment Outcomes - Provides a list of measureable otucomes for Cancer Care including remission, ongoing treatment, active survellance, detah, etc.  
-Provides a list of measureable otucomes for Cancer Care including remission, ongoing treatment, active survellance, detah, etc.  
+# Cancer Treatment Outcomes - Provides a list of measurable outcomes for Cancer Care including remission, ongoing treatment, active surveillance, death, etc.  
+Provides a list of measurable outcomes for Cancer Care including remission, ongoing treatment, active surveillance, death, etc.  
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Cancer Treatment Outcomes** - an example for your projects
 
-Provides a list of measureable otucomes for Cancer Care including remission, ongoing treatment, active survellance, detah, etc.  
+Provides a list of measurable outcomes for Cancer Care including remission, ongoing treatment, active surveillance, death, etc.  
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Cancer Treatment Outcomes** solution repository, follo
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](cancer_treatment_outcomes.png)  <br>
+    ## Deliverables or Figures![additional_image](cancer_treatment_outcomes.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
