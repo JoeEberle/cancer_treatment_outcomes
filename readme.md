@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Cancer Treatment Outcomes - Provides a list of measurable outcomes for Cancer Care including remission, ongoing treatment, active surveillance, death, etc.  
 Provides a list of measurable outcomes for Cancer Care including remission, ongoing treatment, active surveillance, death, etc.  
 
@@ -9,8 +11,6 @@ Welcome to the solution **Cancer Treatment Outcomes** - an example for your proj
 Provides a list of measurable outcomes for Cancer Care including remission, ongoing treatment, active surveillance, death, etc.  
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
