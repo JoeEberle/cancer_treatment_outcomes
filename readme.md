@@ -53,7 +53,7 @@ To get started with the **Cancer Treatment Outcomes** solution repository, follo
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](cancer_treatment_outcomes.png)  <br>
+ ![additional_image](AI_assitant.png)  <br>![additional_image](cancer_treatment_outcomes.png)  <br>
     
 
 ## Github    
