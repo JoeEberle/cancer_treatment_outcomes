@@ -56,11 +56,8 @@ To get started with the **Cancer Treatment Outcomes** solution repository, follo
  ![additional_image](AI_assitant.png)  <br>![additional_image](cancer_treatment_outcomes.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
