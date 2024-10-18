@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Cancer Treatment Outcomes - Provides a list of measurable outcomes for Cancer Care including remission, ongoing treatment, active surveillance, death, etc.  
-Provides a list of measurable outcomes for Cancer Care including remission, ongoing treatment, active surveillance, death, etc.  
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Cancer Treatment Outcomes - Provides a list of measurable outcomes for Cancer Care including remission, ongoing treatment, active surveillance, death, etc.  ![Image image_filename](code.png)
 Analysis of **cancer treatment outcomes** involves assessing various parameters such as remission rates, cancer-free survival, ongoing surveillance, and mortality rates. Remission indicates a temporary or permanent absence of cancer signs and symptoms, often achieved through successful treatment. Cancer-free survival refers to the duration without any evidence of cancer recurrence following treatment, highlighting the effectiveness of interventions in preventing disease progression. Ongoing surveillance involves regular medical monitoring to detect any potential cancer recurrence or development of new tumors, ensuring timely intervention if needed. Mortality rates provide insights into the overall effectiveness of treatments in reducing the risk of death from cancer. By analyzing these outcomes, healthcare professionals can evaluate the impact of treatment strategies, tailor interventions to individual patient needs, and continuously improve cancer care protocols.
 
 A **cancer care timeline** begins with the screening process or first diagnosis. If any abnormalities or issues are detected, the next step is the diagnosis, where the presence and type of cancer are confirmed. Following diagnosis, the patient is referred to an oncology specialist. The timeline then tracks the period of treatment planning, which includes further testing and consultations to develop a personalized treatment strategy. Once the treatment plan is in place, the patient undergoes the prescribed treatment, which may involve surgery, chemotherapy, radiation, or other therapies. After treatment, the patient enters a phase of follow-up care, where their progress is regularly monitored. The timeline concludes with one of three outcomes: remission, where no signs of cancer are detected and periodic monitoring continues; watchful waiting, where the patient is actively monitored without immediate treatment for slow-growing cancers; or end-of-life care, where palliative care is provided when treatment is no longer effective, leading up to the patient's death.
@@ -26,9 +19,7 @@ A **cancer care timeline** begins with the screening process or first diagnosis.
   13. **Recurrence** - The return of cancer after a period of remission or absence, indicating that the disease has come back. 
   14. **Secondary cancer** - The development of a new cancer unrelated to the original cancer diagnosis, either in the same organ or a different part of the body. Secondary cancers may occur as a result of previous cancer treatments, genetic predisposition, or environmental factors. 
  <br>
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Cancer Treatment Outcomes** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -43,6 +34,9 @@ To get started with the **Cancer Treatment Outcomes** solution repository, follo
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -52,13 +46,11 @@ To get started with the **Cancer Treatment Outcomes** solution repository, follo
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](AI_assitant.png)  <br>![additional_image](cancer_treatment_outcomes.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
