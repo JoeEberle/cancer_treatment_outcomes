@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Cancer Treatment Outcomes 
-    ## Provides a list of measurable outcomes for Cancer Care including remission, ongoing treatment, active surveillance, death, etc.  
+    
+# Cancer Treatment Outcomes 
+
+## Provides a list of measurable outcomes for Cancer Care including remission, ongoing treatment, active surveillance, death, etc.  
+
     ![Image image_filename](code.png)
 Analysis of **cancer treatment outcomes** involves assessing various parameters such as remission rates, cancer-free survival, ongoing surveillance, and mortality rates. Remission indicates a temporary or permanent absence of cancer signs and symptoms, often achieved through successful treatment. Cancer-free survival refers to the duration without any evidence of cancer recurrence following treatment, highlighting the effectiveness of interventions in preventing disease progression. Ongoing surveillance involves regular medical monitoring to detect any potential cancer recurrence or development of new tumors, ensuring timely intervention if needed. Mortality rates provide insights into the overall effectiveness of treatments in reducing the risk of death from cancer. By analyzing these outcomes, healthcare professionals can evaluate the impact of treatment strategies, tailor interventions to individual patient needs, and continuously improve cancer care protocols.
 
@@ -42,9 +45,9 @@ To get started with the **Cancer Treatment Outcomes** solution repository, follo
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Cancer Treatment Outcomes** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -54,6 +57,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](AI_assitant.png)  <br>![additional_image](cancer_treatment_outcomes.png)  <br>
