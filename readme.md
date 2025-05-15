@@ -68,13 +68,3 @@ To get started with the **Cancer Treatment Outcomes** solution repository, follo
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](AI_assitant.png)  <br>![additional_image](cancer_treatment_outcomes.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
